@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
