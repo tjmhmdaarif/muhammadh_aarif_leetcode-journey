@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -131,11 +132,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Rolling Hash
