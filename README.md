@@ -79,12 +79,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0709-to-lower-case](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
