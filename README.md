@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0257-binary-tree-paths](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0257-binary-tree-paths/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
