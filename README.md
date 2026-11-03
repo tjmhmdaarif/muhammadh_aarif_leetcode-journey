@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [2409-count-days-spent-together](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
