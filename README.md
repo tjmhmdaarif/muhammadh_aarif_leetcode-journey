@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -468,11 +471,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
