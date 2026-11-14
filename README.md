@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
