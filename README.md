@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [0925-long-pressed-name](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0925-long-pressed-name](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
