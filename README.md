@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0912-sort-an-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0925-long-pressed-name](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 ## Binary Search
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Divide and Conquer
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/tjmhmdaarif/muhammadh_aarif_leetcode-journey/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
